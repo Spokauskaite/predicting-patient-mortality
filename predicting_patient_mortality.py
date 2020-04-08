@@ -5,15 +5,6 @@ Created on Tue Apr  7 20:33:16 2020
 @author: Lina
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 23 20:19:21 2020
-
-@author: Lina Spokauskaite
-
-Pipeline I used to predict patient mortality for EHR(Electronic  Health Record) dream challenge
-"""
-
 ###################################################################################################
 #
 #                                PREDICTING PATIENT MORTALITY
